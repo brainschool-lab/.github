@@ -1,6 +1,6 @@
 # 🧠 BrainSchool Lab
 
-Repositório central destinado à organização e arquivamento de atividades acadêmicas, laboratórios e projetos práticos. Este espaço consolida meu aprendizado em cursos extracurriculares e, especialmente, na graduação em  **Análise e Desenvolvimento de Sistemas (ADS) na Estácio** .
+Repositório central destinado à organização e arquivamento de atividades acadêmicas, laboratórios e projetos práticos. Este espaço consolida meu aprendizado em cursos extracurriculares e, especialmente, na graduação em  **Análise e Desenvolvimento de Sistemas (ADS) na Estácio**.
 
 ---
 
